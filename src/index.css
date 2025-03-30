@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+@import "./global.css";
+
+
+
+@font-face {
+  font-family: "MinionPro";
+  src: url("/fonts/MinionPro-Regular.otf") format("opentype"),
+       url("/fonts/MinionPro-Medium.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
